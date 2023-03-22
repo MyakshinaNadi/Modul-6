@@ -1,0 +1,10 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    background-color: azure;
+    }
+
+a {
+    color: blue; 
+    font-weight: bold; 
+    font-size: 24px;
+}
